@@ -276,11 +276,11 @@ body {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
 .filter {
     display: flex;
     justify-content: center;
     gap: 8px;
+    margin-bottom: 50px;
 }
 
 .filter-btn {
@@ -308,10 +308,6 @@ body {
     letter-spacing: 0.03em;
     color: #FFFFFF;
 }
-.filter-item {
-    margin-bottom: 50px;
-}
-
 /*---------------Наші проєкти---------------*/
 .project-list {
     display: flex;
