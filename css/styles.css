@@ -281,8 +281,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 8px;
-    margin-bottom: 50px;
-    
 }
 
 .filter-btn {
@@ -309,6 +307,9 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: #FFFFFF;
+}
+.filter-item {
+    margin-bottom: 50px;
 }
 
 /*---------------Наші проєкти---------------*/
